@@ -1,3 +1,3 @@
-## Hello, I'm Luna.
+## Hello, I'm mldkyt.
 
-I have moved all my Git activity to [here](https://git.mldchan.dev/luna). Please ask for an account if you wanna contribute.
+I have moved all my Git activity to [here](https://git.mldkyt.com/mldkyt). Please ask for an account if you wanna contribute.
