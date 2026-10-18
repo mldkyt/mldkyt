@@ -1,4 +1,5 @@
 [![Website](https://img.shields.io/badge/mldkyt.com-0d0d0d?style=for-the-badge&logo=firefoxbrowser&logoColor=341539)](https://mldkyt.com)
+[![Fediverse](https://img.shields.io/badge/Fediverse-0d0d0d?style=for-the-badge&logo=pleroma&logoColor=341539)](https://pl.mldkyt.com/users/mldkyt)
 [![YouTube](https://img.shields.io/badge/YouTube-0d0d0d?style=for-the-badge&logo=youtube&logoColor=341539)](https://youtube.com/c/MLDKYT)
 [![GitHub](https://img.shields.io/badge/follow%20on%20github-0d0d0d?style=for-the-badge&logo=github&logoColor=341539)](https://github.com/mldkyt)
 [![Discord](https://img.shields.io/badge/Discord%20server-0d0d0d?style=for-the-badge&logo=discord&logoColor=341539)](https://discord.gg/aE2MXH5Qp6)
