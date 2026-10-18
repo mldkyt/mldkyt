@@ -27,12 +27,12 @@ hi. i'm **mldkyt**, i [code way too much](https://github.com/mldkyt) and [post v
 - **[Catgirl Nonsense](https://mldkyt.com/project/catgirlnonsense/)**: a catgirl nonsense generator
 - **[uwurandom-rs](https://github.com/mldkyt/uwurandom-rs/)**: UwUrandom, rewritten in Rust
 
-<sub>⛓️ more rotting away in my [repos](https://github.com/mldkyt?tab=repositories)</sub>
+<sub>more rotting away in my [repos](https://github.com/mldkyt?tab=repositories)</sub>
 
 ### ~ if you like my work
 
 if my code ever made your night a little less lonely, you can buy me a coffee 🖤
 
-[![Donate](https://img.shields.io/badge/offer_a_coffin_nail-0d0d0d?style=for-the-badge&logo=kofi&logoColor=341539)](https://donate.mldkyt.com)
+[![Donate](https://img.shields.io/badge/offer_a_coffee-0d0d0d?style=for-the-badge&logo=kofi&logoColor=341539)](https://donate.mldkyt.com)
 
 also you can follow me on the links above and github too, and star my repos~ 🖤
