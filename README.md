@@ -6,13 +6,11 @@
 
 # ~mldkyt 🖤
 
-## ~ who dis
+### ~ who dis
 
 hi. i'm **mldkyt**, i [code way too much](https://github.com/mldkyt) and [post videos on YT](https://youtube.com/c/MLDKYT)
 
----
-
-## ~ stalk me
+### ~ stalk me
 
 | 🌑 where | 🔗 link |
 |---|---|
@@ -20,9 +18,7 @@ hi. i'm **mldkyt**, i [code way too much](https://github.com/mldkyt) and [post v
 | videos | [youtube.com/@mldkyt](https://youtube.com/c/MLDKYT) |
 | github | [github.com/mldkyt](https://github.com/mldkyt) |
 
----
-
-## ~ things i made in the void
+### ~ things i made in the void
 
 - **[Akabot](https://mldkyt.com/project/akabot)**: a feature-packed Discord bot
 - **[Astolfo is coming for you](https://github.com/mldkyt/AstolfoIsComingForYou/releases)**: Astolfo shows up at your house with compliments... or to shut down your PC
@@ -33,9 +29,7 @@ hi. i'm **mldkyt**, i [code way too much](https://github.com/mldkyt) and [post v
 
 <sub>⛓️ more rotting away in my [repos](https://github.com/mldkyt?tab=repositories)</sub>
 
----
-
-## ~ if you like my work
+### ~ if you like my work
 
 if my code ever made your night a little less lonely, you can buy me a coffee 🖤
 
