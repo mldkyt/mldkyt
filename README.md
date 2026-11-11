@@ -1,9 +1,10 @@
 [![Website](https://img.shields.io/badge/mldkyt.com-0d0d0d?style=for-the-badge&logo=firefoxbrowser&logoColor=341539)](https://mldkyt.com)
 [![Fediverse](https://img.shields.io/badge/Fediverse-0d0d0d?style=for-the-badge&logo=pleroma&logoColor=341539)](https://pl.mldkyt.com/users/mldkyt)
 [![YouTube](https://img.shields.io/badge/YouTube-0d0d0d?style=for-the-badge&logo=youtube&logoColor=341539)](https://youtube.com/c/MLDKYT)
-[![GitHub](https://img.shields.io/badge/follow%20on%20github-0d0d0d?style=for-the-badge&logo=github&logoColor=341539)](https://github.com/mldkyt)
+[![Git](https://img.shields.io/badge/Repositories-0d0d0d?style=for-the-badge&logo=forgejo&logoColor=341539)](https://git.mldkyt.com/mldkyt)
 [![Discord](https://img.shields.io/badge/Discord%20server-0d0d0d?style=for-the-badge&logo=discord&logoColor=341539)](https://discord.gg/aE2MXH5Qp6)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-0d0d0d?style=for-the-badge&logo=kofi&logoColor=341539)](https://ko-fi.com/B0B4GCSPN)
+[![Patreon](https://img.shields.io/badge/Patreon-0d0d0d?style=for-the-badge&logo=patreon&logoColor=341539)](https://patreon.com/mldkyt)
 
 # ~mldkyt 🖤
 
@@ -17,7 +18,7 @@ hi. i'm **mldkyt**, i [code way too much](https://github.com/mldkyt) and [post v
 |---|---|
 | home | [mldkyt.com](https://mldkyt.com) |
 | videos | [youtube.com/@mldkyt](https://youtube.com/c/MLDKYT) |
-| github | [github.com/mldkyt](https://github.com/mldkyt) |
+| repositories | [github.com/mldkyt](https://git.mldkyt.com/mldkyt) |
 
 ### ~ things i made in the void
 
@@ -27,8 +28,6 @@ hi. i'm **mldkyt**, i [code way too much](https://github.com/mldkyt) and [post v
 - **[Astolfo Resource Pack](https://github.com/mldkyt/AstolfoResourcePack)** ([installer](https://github.com/mldkyt/AstolfoResourcePackInstaller/releases/)): for Minecraft 1.20.1
 - **[Catgirl Nonsense](https://mldkyt.com/project/catgirlnonsense/)**: a catgirl nonsense generator
 - **[uwurandom-rs](https://github.com/mldkyt/uwurandom-rs/)**: UwUrandom, rewritten in Rust
-
-<sub>more rotting away in my [repos](https://github.com/mldkyt?tab=repositories)</sub>
 
 ### ~ if you like my work
 
