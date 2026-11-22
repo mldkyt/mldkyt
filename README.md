@@ -6,35 +6,36 @@
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-0d0d0d?style=for-the-badge&logo=kofi&logoColor=341539)](https://ko-fi.com/B0B4GCSPN)
 [![Patreon](https://img.shields.io/badge/Patreon-0d0d0d?style=for-the-badge&logo=patreon&logoColor=341539)](https://patreon.com/mldkyt)
 
-# ~mldkyt 🖤
-
-### ~ who dis
+# mldkyt
 
 hi. i'm **mldkyt**, i [code way too much](https://github.com/mldkyt) and [post videos on YT](https://youtube.com/c/MLDKYT)
 
-### ~ stalk me
+### socials
 
-| 🌑 where | 🔗 link |
+see https://mldkyt.com/socials
+
+| where | link |
 |---|---|
 | home | [mldkyt.com](https://mldkyt.com) |
 | videos | [youtube.com/@mldkyt](https://youtube.com/c/MLDKYT) |
 | repositories | [github.com/mldkyt](https://git.mldkyt.com/mldkyt) |
+| patreon | [patreon.com/mldkyt](https://patreon.com/mldkyt) |
 
-### ~ things i made in the void
+### projects
 
-- **[Akabot](https://mldkyt.com/project/akabot)**: a feature-packed Discord bot
-- **[Astolfo is coming for you](https://github.com/mldkyt/AstolfoIsComingForYou/releases)**: Astolfo shows up at your house with compliments... or to shut down your PC
-- **[Astolfo Mod](https://github.com/mldkyt/AstolfoForge/releases)**: a Forge mod full of femboys and many ways to play with them :3
-- **[Astolfo Resource Pack](https://github.com/mldkyt/AstolfoResourcePack)** ([installer](https://github.com/mldkyt/AstolfoResourcePackInstaller/releases/)): for Minecraft 1.20.1
-- **[Catgirl Nonsense](https://mldkyt.com/project/catgirlnonsense/)**: a catgirl nonsense generator
-- **[uwurandom-rs](https://github.com/mldkyt/uwurandom-rs/)**: UwUrandom, rewritten in Rust
+see https://mldkyt.com/projects
 
-### ~ if you like my work
+- **[Akabot](https://mldkyt.com/projects/akabot)**: a feature-packed Discord bot
+- **[Astolfo is coming for you](https://mldkyt.com/projects/astolfoiscoming)**: Astolfo shows up at your house with compliments... or to shut down your PC
+- **[Astolfo Mod](https://modrinth.com/mod/astolfo-mod)**: a Forge mod full of femboys and many ways to play with them :3
+- **[Astolfo Resource Pack](https://mldkyt.com/projects/AstolfoResourcePack)** ([installer](https://github.com/mldkyt/AstolfoResourcePackInstaller/releases/)): for Minecraft 1.20.1
 
-if my code ever made your night a little less lonely, you can buy me a coffee 🖤
+### donations
+
+if my code ever made your night a little less lonely, you can buy me a coffee
 
 [![Donate](https://img.shields.io/badge/offer_a_coffee-0d0d0d?style=for-the-badge&logo=kofi&logoColor=341539)](https://donate.mldkyt.com)
 
-also you can follow me on the links above and github too, and star my repos~ 🖤
+also you can follow me on the links above and github too, and star my repos :3
 
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=mldkyt)](https://github.com/stats-organization/github-stats-extended)
